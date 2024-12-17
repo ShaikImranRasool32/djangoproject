@@ -1,0 +1,16 @@
+
+
+Automobile Management System 🚗
+A web-based application built with Django for managing automobile-related operations like vehicle inventory, sales, customer management, and maintenance records.
+
+Features 🚀
+Vehicle Management: Add, update, and delete vehicle records.
+Sales Management: Track sales and purchase history.
+Customer Management: Manage customer details and service requests.
+Service and Maintenance: Log maintenance services for vehicles.
+User Authentication: Secure login and role-based access control.
+Technologies Used 🛠️
+Backend: Django 5.1.1 (Python)
+Frontend: HTML, CSS, Bootstrap
+Database: MySQL / PostgreSQL
+Version Control: Git & GitHub
